@@ -1,0 +1,27 @@
+{
+  "name": "netsock",
+  "version": "0.0.1",
+  "description": "",
+  "main": "netsock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xabinapal/netsock.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "net",
+    "socket",
+    "unix",
+    "server"
+  ],
+  "author": "Xabier Napal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xabinapal/netsock/issues"
+  },
+  "homepage": "https://github.com/xabinapal/netsock#readme"
+}
