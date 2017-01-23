@@ -1,7 +1,7 @@
 {
   "name": "netsock",
   "version": "0.0.1",
-  "description": "",
+  "description": "Simple wrapper for UNIX domain socket servers",
   "main": "netsock.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
